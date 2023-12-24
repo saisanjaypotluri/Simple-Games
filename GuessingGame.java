@@ -1,10 +1,3 @@
-// Class:			CS5000
-// Term:				Fall 2023	
-// Name:				Sai Sanjay Potluri
-// Program Number:	Assignment 2 Program 1
-// IDE:				Eclipse
-package Assignment2;
-
 import java.util.Scanner;
 //importing necessary files from above library to take input from keyboard
 public class GuessingGameSanjay
