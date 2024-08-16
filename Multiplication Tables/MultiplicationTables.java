@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MultiplicationSanjay
+public class MultiplicationTables
 {
 	public static void main (String[] args)
 	{
